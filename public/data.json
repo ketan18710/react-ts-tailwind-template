@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Emma Johnson",
+      "avatar": "https://i.pravatar.cc/150?img=10",
+      "story": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?w=500&h=800&fit=crop"
+    },
+    {
+      "id": 2,
+      "name": "Liam Smith",
+      "avatar": "https://i.pravatar.cc/150?img=20",
+      "story": "https://images.unsplash.com/photo-1517816743773-6e0fd518b4a6?w=500&h=800&fit=crop"
+    },
+    {
+      "id": 3,
+      "name": "Olivia Brown",
+      "avatar": "https://i.pravatar.cc/150?img=30",
+      "story": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?w=500&h=800&fit=crop"
+    },
+    {
+      "id": 4,
+      "name": "Noah Wilson",
+      "avatar": "https://i.pravatar.cc/150?img=40",
+      "story": "https://images.unsplash.com/photo-1526976668912-1a811878dd37?w=500&h=800&fit=crop"
+    },
+    {
+      "id": 5,
+      "name": "Ava Davis",
+      "avatar": "https://i.pravatar.cc/150?img=50",
+      "story": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=500&h=800&fit=crop"
+    },
+    {
+      "id": 6,
+      "name": "Liam Smith",
+      "avatar": "https://i.pravatar.cc/150?img=60",
+      "story": "https://images.unsplash.com/photo-1526976668912-1a811878dd37?w=500&h=800&fit=crop"
+    },
+    {
+      "id": 7,
+      "name": "Olivia Browns",
+      "avatar": "https://i.pravatar.cc/150?img=70",
+      "story": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=500&h=800&fit=crop"
+    }
+  ]
+}
