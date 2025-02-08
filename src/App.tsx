@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { FaArrowLeft, FaArrowRight, FaTimes } from "react-icons/fa";
+import { FaTimes } from "react-icons/fa";
 import "./App.css";
 import toast from "react-hot-toast";
 import Loader from "./Loader";
